@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+/* <!DOCTYPE html>
 <html lang="en">
 <head>
      <meta charset="UTF-8">
@@ -9,9 +9,15 @@
         background-color: powderblue;
     }
     </style>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    
-    <h1></h1>
-</body>
-</html>
+  <body></body>
+    <h1> Gabby's Winter Break </h1>
+    .p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+ */
