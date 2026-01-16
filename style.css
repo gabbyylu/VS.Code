@@ -1,23 +1,18 @@
-/* <!DOCTYPE html>
-<html lang="en">
-<head>
-     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-   h1 {
-        background-color: powderblue;
-    }
-    </style>
-    <link rel="stylesheet" href="style.css">
-</head>
-  <body></body>
-    <h1> Gabby's Winter Break </h1>
-    .p1 {
-  font-family: "Times New Roman", Times, serif;
+body{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8ca6e2;
+
 }
 
-.p2 {
-  font-family: Arial, Helvetica, sans-serif;
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
 }
- */
+h1{
+    color: rgb(80, 67, 164);
+}
+h2{
+    color: rgb(79, 106, 167);
+}
